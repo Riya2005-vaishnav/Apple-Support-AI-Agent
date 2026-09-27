@@ -1,0 +1,21 @@
+message,existing_intent,my_intent,intent_agree,existing_escalate,my_escalate,escalate_agree
+my apple watch power went from 82% to 64% in 10hours! And that too when I wasn’t wearing it! Why is your battery tech so sucky? Please fix it. Its 7months old.,ambiguous_insufficient_context,post_update_battery_drain,False,escalate,escalate,True
+"It works now, I had to sign out and sign in about 20 Times but it works now 🤙🏾",ambiguous_insufficient_context,ambiguous_insufficient_context,True,escalate,auto,False
+The issues is resolved temporarily after a restart. I’m having to restart my phone every day.,ambiguous_insufficient_context,post_update_performance_issue,False,escalate,escalate,True
+"on the #iphoneX, the Siri button is now at the bottom right corner. Is there a way to hide it. It is being activated by accident all the time... when I am tying AND scrolling or making corrections for example",how_to_question,how_to_question,True,auto,auto,True
+Ok I just had frame rate stutters happen to me just now on the home screen #MoreBugsOnTheOS please fix,post_update_performance_issue,known_widespread_bug,False,auto,auto,True
+"my iPhone and my wife’s iPhone are freezing, laggy, notifications don’t disappear, etc since ios11. soo frustrating. :(",post_update_performance_issue,post_update_performance_issue,True,auto,auto,True
+Ever since the update my phone takes forever to charge and loses battery while plugged in to the charger...Thanks 👌,post_update_battery_drain,post_update_battery_drain,True,auto,auto,True
+Since update to iOS 11. I’ve noticed battery drain is more noticeable on my iPad 2 ... anyone else found similar?,post_update_battery_drain,post_update_battery_drain,True,auto,auto,True
+why all of a sudden has my iPhone started trying to play music in my car through the charger and not via Bluetooth?,how_to_question,post_update_battery_drain,False,auto,auto,True
+Man bump all that. Send me bout 5 chargers so if one break I'll be good y'all killing my pockets 😭,ambiguous_insufficient_context,ambiguous_insufficient_context,True,escalate,escalate,True
+Dear my phone won't let me cancel iPhone subscriptions. I know you like money but stealing is rude.,billing_refund,billing_refund,True,escalate,escalate,True
+Dose iOS 11 have Sms pay? If so how do I use it,how_to_question,how_to_question,True,auto,auto,True
+"message pops up every two minutes, but my iphone is up to date according to settings. please advise on how to correct this?",ambiguous_insufficient_context,ambiguous_insufficient_context,True,escalate,escalate,True
+"My iPod Nano is cycling thru songs, not playing anything. How do I fix this? Going on trip to SF next week. Need music!",post_update_performance_issue,post_update_performance_issue,True,auto,auto,True
+why is my phone autocorrecting I to I️,known_widespread_bug,known_widespread_bug,True,auto,auto,True
+DAMMIT ! Help meee!!!! I️ am currently running iOS 11.1. How do I️ fix this?!,known_widespread_bug,known_widespread_bug,True,auto,auto,True
+Okay got it,ambiguous_insufficient_context,ambiguous_insufficient_context,True,auto,auto,True
+"why doesn’t the wallet app show my boarding pass on the lock screen anymore? It’s set up to, but no time-aware or location-awareness. iOS 11 bug",post_update_performance_issue,known_widespread_bug,False,auto,auto,True
+new update is failing - restarted about 10 times and the same screen - seems to be no way to quit it either,post_update_performance_issue,post_update_performance_issue,True,auto,escalate,False
+Yeah that didn’t work for me either.,ambiguous_insufficient_context,ambiguous_insufficient_context,True,escalate,escalate,True
