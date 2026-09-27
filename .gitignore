@@ -2,3 +2,4 @@ venv/
 .env
 data/raw/
 __pycache__/
+*_checkpoint.csv
