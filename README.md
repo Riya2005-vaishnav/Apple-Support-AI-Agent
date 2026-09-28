@@ -4,7 +4,7 @@ An AI agent that classifies AppleSupport customer messages (from the Kaggle
 "Customer Support on Twitter" dataset), drafts a reply grounded in real past
 resolutions, and decides whether to auto-handle or escalate to a human.
 
-Built for the Hiver SDE Intern take-home assignment.
+
 
 ## What this does
 
