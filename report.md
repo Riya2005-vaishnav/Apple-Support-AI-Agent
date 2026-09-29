@@ -1,4 +1,4 @@
-# Hiver SDE Intern Assignment — AppleSupport AI Agent
+#  AppleSupport AI Agent
 
 ## 1. Problem Framing
 
